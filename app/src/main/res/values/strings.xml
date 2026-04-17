@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FocusDice</string>
+    <string name="tap_to_start">Тапни, чтобы начать</string>
+    <string name="task_hint">Приложение предложит тебе маленький шаг к концентрации.</string>
+    <string name="done_message">Отлично. Засчитано.</string>
+    <string name="reset_message">Статистика сброшена.</string>
+    <string name="roll_message">Новое задание готово.</string>
+</resources>
